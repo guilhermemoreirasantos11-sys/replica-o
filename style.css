@@ -1,0 +1,59 @@
+
+    header {
+        border: 9px solid lightblue;
+        padding: 7px;
+        margin: 7px;
+        background-color: rgb(51, 143, 248);
+        background-clip: content-box;
+        color: white;
+    }
+    nav {
+        border: 9px solid rgb(20, 122, 255);
+        padding: 7px;
+        margin: 7px;
+        background-color: rgb(255, 174, 0);
+        background-clip: content-box;
+        color: white;
+    }
+    main {
+        border: 9px solid rgb(196, 194, 194);
+        padding: 7px;
+        margin: 7px;
+        background-color: rgb(224, 224, 224);
+        background-clip: content-box;
+        color: white;
+    }
+    section {
+        border: 9px solid rgb(196, 194, 194);
+        padding: 7px;
+        margin: 7px;
+        background-color: #f7c41d;
+        background-clip: content-box;
+        color: rgb(0, 0, 0);
+    }
+    article {
+        border: 1px solid #31c40d;
+        padding: 7px;
+        margin: 7px;
+        background-color:#31c40d;
+        background-clip: content-box;
+        color: black;
+        border: 2px dotted  rgb(2, 235, 21);
+    }
+    aside {
+        border: 9px solid rgb(196, 194, 194);
+        padding: 7px;
+        margin: 7px;
+        background-color: #9e35be;
+        background-clip: content-box;
+        color: white;
+    }
+    footer {
+        border: 9px solid rgb(196, 194, 194);
+        padding: 20px;
+        margin: 7px;
+        background-color:rgb(1, 36, 68);
+        background-clip: content-box;
+        color: white;
+        text-align: center;
+    }
